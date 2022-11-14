@@ -1,0 +1,31 @@
+Introdução
+
+1. o que é processamento de imagem
+história do processamento de imagem
+imagem digital
+2. para que serve
+etapas do processamento
+3. quais técnicas (filtros) sao comumente utilizadas
+
+to gray image
+canny edge detection
+gaussian blur filter
+
+explicaçao da aplicaçao
+python
+opencv -> explicaçao da biblioteca
+opencv -> funções
+javascript api
+
+1.a objetivo motivaçao
+1.b revisao bibliografica - comparar com outros trabalhos
+2. contexto -tecnica
+3. desenvolvimento
+4. resultado
+5. conclusao
+
+Bibliografia Básica:
+1) GONZALEZ, R.C. and WOODS, R.E. Processamento de Imagens Digitais, Edgard Blucher, 2000.
+Bibliografia Complementar:
+4) Comparação de Descritores de Formas no Reconhecimento de Objetos, III Workshop de Trabalhos de Iniciação Científica em Computação Gráfica e Processamento de Imagens - WICCGPI, pages 22–24, Outubro 2007.
+5) Medical Image Processing using MATLAB, Journal of Information Systems & Operations Management 2(1):194-210. pp.194-210.
